@@ -17,3 +17,6 @@ Assign save button functionality <br />
 Store and Load data locally <br />
 Apply background to event based on current time <br />
 Refresh event background in real time <br />
+
+## Home page for my Daily Planner.
+![Home page for my daily planner.](./images/Daily%20scheduler.jpg)
