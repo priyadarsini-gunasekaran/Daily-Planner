@@ -19,4 +19,4 @@ Apply background to event based on current time <br />
 Refresh event background in real time <br />
 
 ## Home page for my Daily Planner.
-![Home page for my daily planner.](./images/Daily%20scheduler.jpg)
+![Home page for my daily planner.](./images/Work%20Day%20scheduler.jpg)
